@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1',
-            "com.codeborne:pdf-test:1.6.1",
+            "com.codeborne:pdf-test:1.8.0",
             "com.codeborne:xls-test:1.4.3",
             "org.apache.poi:poi:5.2.2",
             'org.assertj:assertj-core:3.23.1',
